@@ -1,0 +1,15 @@
+ @php($count=0)
+   @foreach(session()->get('minearray')  as $in)     
+                   @php($count++)
+                   @if($count==2)
+    <li><img style="border-radius: 50%; object-fit: cover;" src="{{asset('me/'. $in) }}" alt="Logo" /> </li>
+    @break
+    @endif
+   @endforeach
+   @php($count=0)
+    <li><a href="{{ url('/admin/dashboard')}}"><i class="icon icon-signal"></i> <span>
+    @foreach(session()->get('minearray')  as $in)  
+                   {{$in}}
+                   @break
+   @endforeach
+  
