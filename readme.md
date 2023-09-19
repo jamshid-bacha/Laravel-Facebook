@@ -1,10 +1,10 @@
 ## Mini Facebook based on Laravel
-1. A small facebook project based with laravel, PHP, JQuery and JavaScript
+1. A small Facebook project based on Laravel, PHP, JQuery, and JavaScript
 2. Login and Register page
 3. Friends posts
 4. Messages and Logout button
 5. Setting option
-6. Change password option
+6. Change the password option
 
 ## Figures of the Projects
 ### Login Page
