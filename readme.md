@@ -1,5 +1,22 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+## Mini Facebook based on Laravel
+1. A small facebook project based with laravel, PHP, JQuery and JavaScript
+2. Login and Register page
+3. Friends posts
+4. Messages and Logout button
+5. Setting option
+6. Change password option
 
+## Figures of the Projects
+<img width="853" alt="Login Facebook" src="https://github.com/jamshid1255/Laravel-facebook/assets/48220392/c42cc85c-9ecb-4a47-9e6d-0a69231ac923">
+<img width="794" alt="Register facebook" src="https://github.com/jamshid1255/Laravel-facebook/assets/48220392/93762076-519d-4922-8293-f16c2944dc7c">
+<img width="899" alt="Main profile" src="https://github.com/jamshid1255/Laravel-facebook/assets/48220392/3e1a4cd9-a190-4fec-8ca4-41fe97d32230">
+<img width="520" alt="Change password" src="https://github.com/jamshid1255/Laravel-facebook/assets/48220392/7ce1d431-655b-4895-a30d-db7bbdf5cb69">
+
+
+
+
+
+<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
