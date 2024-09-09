@@ -8,16 +8,16 @@
 
 ## Figures of the Projects
 ### Login Page
-<img width="400" height="280" alt="Login Facebook" src="https://github.com/jamshid1255/Laravel-facebook/assets/48220392/c42cc85c-9ecb-4a47-9e6d-0a69231ac923">
+<img width="600" height="280" alt="Login Facebook" src="https://github.com/jamshid1255/Laravel-facebook/assets/48220392/c42cc85c-9ecb-4a47-9e6d-0a69231ac923">
 
 ### Register Page
-<img width="400" height="280" alt="Register facebook" src="https://github.com/jamshid1255/Laravel-facebook/assets/48220392/93762076-519d-4922-8293-f16c2944dc7c">
+<img width="600" height="280" alt="Register facebook" src="https://github.com/jamshid1255/Laravel-facebook/assets/48220392/93762076-519d-4922-8293-f16c2944dc7c">
 
 ### Main Profile Page
-<img width="400" height="280" alt="Main profile" src="https://github.com/jamshid1255/Laravel-facebook/assets/48220392/3e1a4cd9-a190-4fec-8ca4-41fe97d32230">
+<img width="600" height="280" alt="Main profile" src="https://github.com/jamshid1255/Laravel-facebook/assets/48220392/3e1a4cd9-a190-4fec-8ca4-41fe97d32230">
 
 ### Change Password Page
-<img width="400" height="280" alt="Change password" src="https://github.com/jamshid1255/Laravel-facebook/assets/48220392/7ce1d431-655b-4895-a30d-db7bbdf5cb69">
+<img width="600" height="280" alt="Change password" src="https://github.com/jamshid1255/Laravel-facebook/assets/48220392/7ce1d431-655b-4895-a30d-db7bbdf5cb69">
 
 ## About Laravel
 
